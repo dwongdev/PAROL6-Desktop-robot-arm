@@ -131,3 +131,16 @@ Most items have links where you can buy the item, and some of them are affiliate
 | Suction cup gripper | | 1 | | [Link](https://www.aliexpress.com/item/4000538850003.html) | | |
 | Vacuum generator | | 1 | | [Link](https://s.click.aliexpress.com/e/_DdTAyOZ) | | |
 | 4mm to 6mm coupler | | 1 | | [Link](https://s.click.aliexpress.com/e/_DeEEqHR) | | |
+
+---
+
+## Small print bed modification
+
+> [!NOTE]
+> These parts are only needed if your printer bed is too small for `J1_turret_rework_blocker` and `Upper_arm`. Both parts are split in two and joined with dowel pins and epoxy after printing. STL files are in [STL/SMALL_PRINT_BED](../STL/SMALL_PRINT_BED). Nothing else in the build changes.
+
+| Name | Type | Quantity | Description | Link | ALT link | Reference Image |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| J1 turret dowel pin | Dowel pin 4 x 18 mm | 3 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | |
+| Upper arm dowel pin | Dowel pin 6 x 22 mm | 4 | Solid cylindrical, stainless or hardened steel | [Link](https://www.aliexpress.com/item/1005009401701158.html) | | |
+| Two part epoxy | Epoxy adhesive | 1 | 1:1 mix, slow setting | [Link](https://www.aliexpress.com/item/1005012397836514.html) | | |
