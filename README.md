@@ -47,6 +47,7 @@ If you want to Source all the parts yourself and build your own follow these ste
 ## 📚 Resources
 - [Official website](https://source-robotics.com)
 - [Commander software](https://github.com/PCrnjak/PAROL-commander-software) ------ [Minimal hardware specs!](https://github.com/PCrnjak/PAROL-commander-software/blob/main/confirmed_working_systems.md)
+- [PAROL-Web-Commander](https://github.com/Jepson2k/PAROL-Web-Commander) — alternative web-based commander software
 - [Python API](https://github.com/PCrnjak/PAROL6-python-API) ; [Python API legacy](https://github.com/PCrnjak/PAROL6-python-API-Alvar)
 - [Building instructions](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/Building%20instructions)
 - [BOM](https://github.com/PCrnjak/PAROL6-Desktop-robot-arm/tree/main/BOM)
@@ -54,14 +55,8 @@ If you want to Source all the parts yourself and build your own follow these ste
 - [Video tutorials](https://youtube.com/playlist?list=PLSueoDrBt5MMTL9O8qAWZiJrNIf8-29Qz&si=Zca3UZKENje9ifow)
 - [ROS2 / Moveit simulation](https://github.com/PCrnjak/PAROL6-ROS2-MOVEIT)
 
-### Community projects
-- [WEB commander software](https://github.com/Jepson2k/PAROL-Web-Commander)
-- [Commander software refactored for easier editing + vision systems](https://github.com/thousands-star/Parol6_Better_Command)
-- [PAROL6 Gemini LLM vision control](https://github.com/AlvarEhr/PAROL6-Python-API-Gemini-Vision-Public)
-- [PAROL6 Pilot webgui](https://github.com/jointAxis77/pilot)
-- [Another GUI](https://github.com/jakubgrzebien1234-creator/PAROL6_GUI)
-- [Tic Tac Toe with vision](https://github.com/lennardkiebler-cryptoii/Tic-Tac-Toe-Robot-Project-Parol6/tree/main)
-  
+- [Community projects](community_projects.md) — GUIs, vision/AI demos, and hardware mods built by the community
+
 ## 🌐 More about PAROL6 robotic arm
 
 | YouTube | Instagram | Twitter | LinkedIn |
